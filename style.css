@@ -49,11 +49,13 @@ nav {
     height: 32px;
     width: 32px;
 }
+
 .img-perfil:hover {
     border-radius: 25px;
     box-shadow: 1px 1px 5px 1px #3c4043;
     
 }
+
 .menu-icono {
     margin-left: 5px;
     width: 25px;
@@ -61,10 +63,12 @@ nav {
     opacity: 50%;
 
 }
+
 .menu-icono:hover {
     border-radius: 15px;
     box-shadow: 1px 1px 10px 1px #3c4043;
 }
+
 main {
     margin-top: 90px;
     justify-content: center;
@@ -154,7 +158,8 @@ main {
  }
 
  #search:hover {
-     border: 2px solid #dfe1e5;
+     border: 1px solid #dfe1e5;
+     box-shadow: 1px 0px 2px 0px #dfe1e5;
  }
 
 .boton-suerte{
@@ -173,8 +178,9 @@ main {
     font-size: 14px;
 }
 
-#lucky:hover{
-    border: 2px solid #dfe1e5;
+#lucky:hover {
+    border: 1px solid #dfe1e5;
+    box-shadow: 1px 0px 2px 0px #dfe1e5;
 }
 
 
